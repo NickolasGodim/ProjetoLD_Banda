@@ -1,2 +1,2 @@
-# ProjetoBanda
-Projeto site de uma banda
+# ProjetoLemonDemon(Banda)
+Projeto de um site da banda Lemon Demon
